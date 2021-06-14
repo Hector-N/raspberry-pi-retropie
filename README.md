@@ -36,3 +36,55 @@ __HDMI cable__
 [Кабеля hdmi](https://miniboard.com.ua/22-kabeli)
 
 __*ИТОГ: около 4500 грн*__
+
+Update:
+
+Raspberry 4 (2gb)  - 2000  
+https://miniboard.com.ua/boards/854-raspberry-pi-4-model-b.html#/122-raspberry_pi_4-2gb_ram
+
+Корпуса  
+
+официальный корпус - стильно без излишеств - 250  
+https://miniboard.com.ua/korpusa/860-oficialnyj-korpus-raspberry-pi-4.html
+
+Корпус с большим (40 мм) вентилятором и доп радиаторами - 300  
+https://miniboard.com.ua/korpusa/897-icon-case-s-okhlazhdeniem-dlya-raspberry-pi-4b.html
+
+Корпус с маленьким радиатором, прилегающем к процессору - 400  
+https://miniboard.com.ua/korpusa/898-korpus-argon-poly-s-okhlazhdeniem-raspberry-pi-4.html
+
+Блок питания:
+
+Качественный бп, кабель 1,2 метра - 230  
+https://miniboard.com.ua/pitanie/870-blok-pitaniya-5v-3a-type-c.html
+
+Официальный бп, кабель 1,5 метра - 400  
+https://miniboard.com.ua/pitanie/853-oficialnyj-blok-pitaniya-dlya-rpi-4-5v3a-usb-type-c.html#/8-cvet-belyj
+
+Клавы: 
+3 эргономичных комплекта от Майкрософт (они того стоят) - 2200, 2300, 3500  
+https://hard.rozetka.com.ua/microsoft_pp4_00017/p8208061/  
+https://hard.rozetka.com.ua/microsoft_l3v_00017/p1530167/  
+https://hard.rozetka.com.ua/microsoft_l5v_00017/p1529717/  
+
+Также есть более классические комплекты от майкрософт - дешевле
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
