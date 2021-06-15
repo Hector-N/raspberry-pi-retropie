@@ -76,8 +76,13 @@ https://can.ua/pc-keyboards/c1530/rq12389=e716d89d7e8c11e8a834001e6719cdd1/
 Вариант 2 - __гибридные, USB__ (хорошая тактильная отдача, удобно играть и работать):  
 https://can.ua/pc-keyboards/c1530/rq12389=2e3f7d477e9811e8a834001e6719cdd1%2Ce716d89c7e8c11e8a834001e6719cdd1;rq12391=4f3ea9cb131f11e98c1e001e6719cdd1/
 
+Я б взял Cougar за 1200 или MSI за 1300
+
 Вариант 3 для примера (не рекомендую) (значительно дороже, хорошая от 3000) - __клава со свитчами__ (маленькие кликающие кнопочки под каждой клавишей. Эталоная тактильная и звукомая отдача - множество вариантов)  
-https://can.ua/klaviatura-cougar-attack-x3-rgb-speedy-37atrm5mg-1002/p174999/
+https://can.ua/klaviatura-cougar-attack-x3-rgb-speedy-37atrm5mg-1002/p174999/  
+
+Пример того, как могут кликать такие клавы  
+https://www.youtube.com/watch?v=1AKzEZnGdcY
 
 __Геймпады:__  
 
